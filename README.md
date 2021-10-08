@@ -2,9 +2,9 @@
 
 ![Design done for the Four card feature section coding challenge](./design/desktop-design.jpg)
 
-![Mobile Design done for the Four card feature section coding challenge](./design/mobile-design.jpg)
-
 ![Tablet Design done for the Four card feature section coding challenge](./design/tablet-design.jpg)
+
+![Mobile Design done for the Four card feature section coding challenge](./design/mobile-design.jpg)
 
 
 ## Welcome! 👋
